@@ -2,6 +2,6 @@
 
 int main()
 {
-    int x = 20;
+    int x = 51;
     int y = 50;
 }
